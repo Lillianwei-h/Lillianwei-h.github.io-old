@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Siwei Han, a junior at Fudan University, Computer Science and Technology Department.
+Hi! I'm Siwei Han, a junior at Fudan University, Computer Science and Technology Department.
 
 # 📝 Publications 
 [Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918)
