@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Siwei Han, a junior at Fudan University, Computer Science and Technology Department.
+Hi! I'm Siwei Han(韩偲蔚), a junior at Fudan University, Computer Science and Technology Department.
 
 # 📝 Publications 
 [Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918)
@@ -31,3 +38,7 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
   - Baldur's Gate 3
   - Devinity Original Sin 2
   - The Legend of Zelda: Breath of the Wild
+
+# GitHub Statistics
+[![](https://github-readme-stats.vercel.app/api?username=lillianwei-h&show_icons=true&include_all_commits=true&rank_icon=github)](https://github.com/lillianwei-h)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lillianwei-h&layout=compact&langs_count=8)](https://github.com/lillianwei-h)
