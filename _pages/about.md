@@ -31,13 +31,14 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 # 💻 Internships
 - *2024.01 - now*, Advantest, China.
 
-# 🎨🎹🎮 Interests
+# 🎨🎹🎮🐈 Interests
 - Drawing illustration and manga
 - Improvisational piano playing and piano recomposition
 - Games
   - Baldur's Gate 3
   - Devinity Original Sin 2
   - The Legend of Zelda: Breath of the Wild
+- Kitty!
 
 # GitHub Statistics
 [![](https://github-readme-stats.vercel.app/api?username=lillianwei-h&show_icons=true&include_all_commits=true&rank_icon=github)](https://github.com/lillianwei-h)
