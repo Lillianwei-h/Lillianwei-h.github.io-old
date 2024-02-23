@@ -24,7 +24,7 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 # 💻 Internships
 - *2024.01 - now*, Advantest, China.
 
-# Interests
+# 🎮 Interests
 - Drawing illustration and manga
 - Improvisational piano playing and piano recomposition
 - Games
