@@ -32,9 +32,5 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 - *2021.09 - now*, Fudan University, Computer Science and Technology
 - *2023.08 - 2023.12*, University of North Carolina at Chapel Hill(exchange program)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2024.01 - now*, Advantest, China.
