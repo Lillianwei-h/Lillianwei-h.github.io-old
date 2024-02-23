@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I'm Siwei Han, a junior at Fudan University, Computer Science and Technology Department.
@@ -30,3 +23,11 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 
 # 💻 Internships
 - *2024.01 - now*, Advantest, China.
+
+# Interests
+- Drawing illustration and manga
+- Improvisational piano playing and piano recomposition
+- Games
+  - Baldur's Gate 3
+  - Devinity Original Sin 2
+  - The Legend of Zelda: Breath of the Wild
