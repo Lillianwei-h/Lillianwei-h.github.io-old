@@ -20,7 +20,7 @@ redirect_from:
 Hi! I'm Siwei Han(韩偲蔚), a junior at Fudan University, Computer Science and Technology Department.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comp ToT</div><img src='images/papers/CompToT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comp ToT</div><img src='images/CompToT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 In this paper, we propose a novel comparison-based CoT generation algorithm that directly identifies the most promising thoughts with the noisy feedback from the LLM. In each round, we randomly pair intermediate thoughts and directly prompt the LLM to select the more promising one from each pair, allowing us to identify the most promising thoughts through an iterative process. To further model the noise in the comparison, we resort to the techniques of ensemble and dueling bandits and propose two variants of the proposed algorithm.
 </div>
