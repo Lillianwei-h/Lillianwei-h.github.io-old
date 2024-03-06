@@ -26,8 +26,6 @@ In this paper, we propose a novel comparison-based CoT generation algorithm that
 </div>
 <div markdown="1">
 [Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918)
-</div>
-<div markdown="1">
 Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 </div>
 </div>
@@ -49,5 +47,5 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 - Kitty!
 
 # 📊 Statistics
-[![](https://github-readme-stats.vercel.app/api?username=lillianwei-h&show_icons=true&include_all_commits=true&rank_icon=github&theme=swift&count_private=true&hide=issues,contribs)](https://github.com/lillianwei-h)
+[![](https://github-readme-stats.vercel.app/api?username=lillianwei-h&show_icons=true&include_all_commits=true&rank_icon=github&theme=swift&count_private=true)](https://github.com/lillianwei-h)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lillianwei-h&layout=compact&langs_count=8&theme=swift&count_private=true)](https://github.com/lillianwei-h)
