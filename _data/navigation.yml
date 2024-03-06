@@ -17,3 +17,6 @@ main:
 
   - title: "Statistics"
     url: "/#-statistics"
+
+  - title: "CV"
+    url: "docs/CV_02_25_2024.pdf"
