@@ -40,7 +40,10 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 <br><br>
 
 # 💻 Internships
-- *2024.01 - now*, Advantest, China.<br><br>
+
+<img src="../images/atc.png" alt="atc" style="zoom:60%; float: left" />&emsp; [Advantest, China](https://www.advantest.com/)    
+&emsp; R&D Associate Engineer. *2024.01 - now*
+<br><br>
 
 # 🎨🎹🎮🐈 Interests
 - Drawing illustration and manga
