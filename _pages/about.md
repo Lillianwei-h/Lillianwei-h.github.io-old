@@ -38,8 +38,10 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 <img src="../images/unc.png" alt="unc" style="zoom:24%; float: left" />&emsp; [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
 &emsp; Exchange student. *2023.08 - 2023.12*
 
+<br><br>
+
 # 💻 Internships
-- *2024.01 - now*, Advantest, China.
+- *2024.01 - now*, Advantest, China.<br><br>
 
 # 🎨🎹🎮🐈 Interests
 - Drawing illustration and manga
@@ -49,6 +51,7 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
   - Devinity Original Sin 2
   - The Legend of Zelda: Breath of the Wild
 - Kitty!
+<br><br>
 
 # 📊 Statistics
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lillianwei-h&layout=compact&langs_count=8&theme=swift&count_private=true)](https://github.com/lillianwei-h)
