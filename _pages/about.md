@@ -37,7 +37,6 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 
 <img src="../images/unc.png" alt="unc" style="zoom:24%; float: left" />&emsp; [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
 &emsp; Exchange student. *2023.08 - 2023.12*
-
 <br><br>
 
 # 💻 Internships
