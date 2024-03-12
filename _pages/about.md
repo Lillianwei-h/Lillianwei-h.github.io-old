@@ -50,7 +50,7 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 - Improvisational piano playing and piano recomposition
 - Games
   - Baldur's Gate 3
-  - Devinity Original Sin 2
+  - Divinity: Original Sin 2
   - The Legend of Zelda: Breath of the Wild
 - Kitty!
 <br><br>
