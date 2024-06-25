@@ -10,15 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Siwei Han(韩偲蔚), a junior at Fudan University, Computer Science and Technology Department.
+Hi! I'm Siwei Han(韩偲蔚), a junior at Fudan University, Computer Science and Technology Department. I am interested in alignment and application of LLMs, currently interning in [Prof. Huaxiu Yao](https://www.huaxiuyao.io)'s team at UNC.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Comp ToT</div><img src='images/CompToT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/CompToT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 In this paper, we propose a novel comparison-based CoT generation algorithm that directly identifies the most promising thoughts with the noisy feedback from the LLM. In each round, we randomly pair intermediate thoughts and directly prompt the LLM to select the more promising one from each pair, allowing us to identify the most promising thoughts through an iterative process. To further model the noise in the comparison, we resort to the techniques of ensemble and dueling bandits and propose two variants of the proposed algorithm.
 </div>
 <div markdown="1">
-[Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918) ICML2024<br>
+[Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918)<br>
 Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 </div>
 </div>
