@@ -39,18 +39,17 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 <br><br>
 
 # 💻 Projects
-### [LLMEVAL - Fudan University’s NLP Laboratory](http://www.llmeval.com/) Apr. 2023 - Jun. 2023
-Designing questions and evaluation criteria for assessing large language models such as GPT 4.0, GPT
-3.5, and New Bing. Also participated in subsequent data organization tasks.
+### [LLM Reviser](https://github.com/Lillianwei-h/weak_aligner) Mar. 2024 - Jun. 2024
+Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
+
+<img src="../images/revisor.png" alt="revisor" style="zoom:20%;" />
 
 ### [THSH shell](https://github.com/Lillianwei-h/Comp-530/tree/lab1) Oct. 2023
 This shell can run standard linux shell commands. It also supports creating new built-in commands. It
 includes features like pipelines, input/output redirection, script input, and debugging.
 
-### [LLM Reviser](https://github.com/Lillianwei-h/weak_aligner) Mar. 2024 - Jun. 2024
-Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
-
-<img src="../images/revisor.png" alt="revisor" style="zoom:20%;" />
+### [LLMEVAL - Fudan University’s NLP Laboratory](http://www.llmeval.com/) Apr. 2023 - Jun. 2023
+Designing questions and evaluation criteria for assessing large language models' capability of solving questions in Chinese. Mainly resiponsible for story generation and paragraph edition parts.
 
 # 🎨🎹🎮🐈 Interests
 - Drawing illustration and manga
