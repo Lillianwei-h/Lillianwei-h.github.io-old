@@ -48,7 +48,7 @@ This shell can run standard linux shell commands. It also supports creating new 
 includes features like pipelines, input/output redirection, script input, and debugging.
 
 ### [LLM Reviser](https://github.com/Lillianwei-h/weak_aligner) Mar. 2024 - Jun. 2024
-<img src="../images/revisor.png" alt="revisor" style="zoom:10%; float: left" /> Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
+<img src="../images/revisor.png" alt="revisor" style="zoom:20%; " /> Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
 
 # 🎨🎹🎮🐈 Interests
 - Drawing illustration and manga
