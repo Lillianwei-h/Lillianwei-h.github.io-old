@@ -32,23 +32,23 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 &emsp; Exchange student. *2023.08 - 2023.12*
 <br><br>
 
-# 💻 Internships
+# 💼 Internships
 
 <img src="../images/atc.png" alt="atc" style="zoom:60%; float: left" />&emsp; [Advantest, China](https://www.advantest.com/)    
 &emsp; R&D Associate Engineer. *2024.01 - 2024.05*
 <br><br>
 
-# Projects
-### LLMEVAL - Fudan University’s NLP Laboratory Apr. 2023 - Jun. 2023
+# 💻 Projects
+### [LLMEVAL - Fudan University’s NLP Laboratory](http://www.llmeval.com/) Apr. 2023 - Jun. 2023
 Designing questions and evaluation criteria for assessing large language models such as GPT 4.0, GPT
 3.5, and New Bing. Also participated in subsequent data organization tasks.
 
-### THSH shell Oct. 2023
+### [THSH shell](https://github.com/Lillianwei-h/Comp-530/tree/lab1) Oct. 2023
 This shell can run standard linux shell commands. It also supports creating new built-in commands. It
 includes features like pipelines, input/output redirection, script input, and debugging.
 
-### LLM Reviser Mar. 2024 - Jun. 2024
-<img src="../images/revisor.png" alt="revisor" style="zoom:60%; float: left" /> Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
+### [LLM Reviser](https://github.com/Lillianwei-h/weak_aligner) Mar. 2024 - Jun. 2024
+<img src="../images/revisor.png" alt="revisor" style="zoom:10%; float: left" /> Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
 
 # 🎨🎹🎮🐈 Interests
 - Drawing illustration and manga
