@@ -56,7 +56,7 @@ Designing questions and evaluation criteria for assessing large language models'
 # 🗺️ Languages
 - Chinese: Native
 - English: TOEFL 110
-- Japanese: Elemental
+- Japanese: Elementary
 <br><br>
 
 # 🎨🎹🎮🐈 Interests
