@@ -11,7 +11,10 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
-
+    
+  - title: "Projects"
+    url: "/#-projects"
+    
   - title: "Interests"
     url: "/#-interests"
 
