@@ -26,10 +26,10 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 # 📖 Educations
 
 <img src="../images/fdu.png" alt="fdu" style="zoom:20%; float: left" />&emsp; [Fudan University](https://www.fudan.edu.cn/en/)    
-&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - now*
+&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - now* **GPA: 3.52/4**
 
 <img src="../images/unc.png" alt="unc" style="zoom:24%; float: left" />&emsp; [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
-&emsp; Exchange student. *2023.08 - 2023.12*
+&emsp; Exchange student. *2023.08 - 2023.12* **GPA: 3.89/4**
 <br><br>
 
 # 💼 Internships
