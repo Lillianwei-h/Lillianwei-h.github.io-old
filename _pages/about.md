@@ -51,7 +51,7 @@ includes features like pipelines, input/output redirection, script input, and de
 ### [LLMEVAL - Fudan University’s NLP Laboratory](http://www.llmeval.com/) Apr. 2023 - Jun. 2023
 Designing questions and evaluation criteria for assessing large language models' capability of solving questions in Chinese. Mainly resiponsible for story generation and paragraph edition parts.
 
-# Language
+# 🗺️ Languages
 - Chinese: Native
 - English: TOEFL 110
 - Japanese: Elemental
