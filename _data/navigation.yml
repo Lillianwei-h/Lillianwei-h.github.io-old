@@ -14,15 +14,9 @@ main:
     
   - title: "Projects"
     url: "/#-projects"
-
-  - title: "Languages"
-    url: "/#-languages"
     
   - title: "Interests"
     url: "/#-interests"
-
-  - title: "Statistics"
-    url: "/#-statistics"
 
   - title: "CV"
     url: "https://drive.google.com/file/d/1KjQslO_5cXkWd3eXGfMhu26ZEt6iDTrE/view?usp=sharing"
