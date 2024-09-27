@@ -72,7 +72,7 @@ Designing questions and evaluation criteria for assessing large language models'
   - The Legend of Zelda: Breath of the Wild
 - Kitty!
   <br>
-  <img src="https://github.com/user-attachments/assets/84c11659-5609-4a64-a9cc-8e54d2c4966e" style="width: 50%;">
+  <img src="https://github.com/user-attachments/assets/3e87b4f1-f8f7-44b0-aaf2-91eceb4ecce7" style="width: 50%;">
   <br>
 
 <br><br>
