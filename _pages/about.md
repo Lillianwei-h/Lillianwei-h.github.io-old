@@ -68,7 +68,7 @@ Designing questions and evaluation criteria for assessing large language models'
 
 ---
 
-# 🎨🎹🎮🐈 Interests
+# 🎨🎹🎮🎶🐈 Interests
 - Drawing illustration and manga
   (one of my best paintings⬇️)
   <br>
@@ -79,6 +79,11 @@ Designing questions and evaluation criteria for assessing large language models'
   - Baldur's Gate 3
   - Divinity: Original Sin 2
   - The Legend of Zelda: Breath of the Wild
+  - The Elder Scrolls V: Skyrim
+- Musicals
+  - The Phantom of the Opera
+  - Dracula
+  - Elisabeth
 - Kitty!
   <br>
   <img src="https://github.com/user-attachments/assets/3e87b4f1-f8f7-44b0-aaf2-91eceb4ecce7" style="width: 50%;">
