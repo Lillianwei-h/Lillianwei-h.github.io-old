@@ -93,4 +93,6 @@ Designing questions and evaluation criteria for assessing large language models'
 ---
 
 # 📊 Statistics
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lillianwei-h&layout=compact&langs_count=8&theme=swift&count_private=true)](https://github.com/lillianwei-h)
+[![](https://github-readme-stats-git-master-lillianwei-hs-projects.vercel.app/api?username=lillianwei-h&show_icons=true&theme=swift&rank_icon=github)](https://github.com/lillianwei-h)
+
+[![](https://github-readme-stats-git-master-lillianwei-hs-projects.vercel.app/api/top-langs/?username=lillianwei-h&layout=donut&langs_count=8&theme=swift)](https://github.com/lillianwei-h)
