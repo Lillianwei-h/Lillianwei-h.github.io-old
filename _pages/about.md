@@ -69,22 +69,27 @@ Designing questions and evaluation criteria for assessing large language models'
 ---
 
 # 🎨🎹🎮🎶🐈 Interests
-- Drawing illustration and manga
-  (one of my best paintings⬇️)
+- 🎨 Drawing illustration and manga
+  (some of my best paintings⬇)
   <br>
-  <img src="https://github.com/user-attachments/assets/67ef32b3-b763-43c1-aef2-b6c8f767f110" style="width: 30%;">
+  <img src="https://github.com/user-attachments/assets/67ef32b3-b763-43c1-aef2-b6c8f767f110" style="display: inline-block;margin: 10px;width: 25%;">
+  <img src="https://github.com/user-attachments/assets/a6875d43-8573-4527-ac3b-f270291a7bd4" style="display: inline-block;margin: 10px;width: 25%;">
+  <img src="https://github.com/user-attachments/assets/42eff4d0-3bbb-4844-b87e-2cfe3d0a9962" style="display: inline-block;margin: 10px;width: 45%;">
+
   <br>
-- Improvisational piano playing and piano recomposition
-- Games
+- 🎹 Improvisational piano playing and piano recomposition
+- 🎮 Games
   - Baldur's Gate 3
   - Divinity: Original Sin 2
   - The Legend of Zelda: Breath of the Wild
   - The Elder Scrolls V: Skyrim
-- Musicals
+  - ...
+- 🎶 Musicals
   - The Phantom of the Opera
-  - Dracula
   - Elisabeth
-- Kitty!
+  - Dracula
+  - ...
+- 🐈 Kitty!
   <br>
   <img src="https://github.com/user-attachments/assets/3e87b4f1-f8f7-44b0-aaf2-91eceb4ecce7" style="width: 50%;">
 
