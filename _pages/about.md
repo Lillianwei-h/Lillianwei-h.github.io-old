@@ -89,7 +89,7 @@ Designing questions and evaluation criteria for assessing large language models'
   - ...
 - 🐈 Kitty!
   <br>
-  <img src="https://github.com/user-attachments/assets/3e87b4f1-f8f7-44b0-aaf2-91eceb4ecce7" style="width: 50%;">
+  <img src="https://github.com/user-attachments/assets/3e87b4f1-f8f7-44b0-aaf2-91eceb4ecce7" style="margin: 10px;width: 45%;border-radius: 20px;">
 
 <br><br>
 
