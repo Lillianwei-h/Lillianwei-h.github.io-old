@@ -81,8 +81,7 @@ Designing questions and evaluation criteria for assessing large language models'
 
 # 🌟 Interests
 - 🎨 Drawing illustration and manga(some of my paintings⬇)
-  <br>
-  <img src="https://github.com/user-attachments/assets/67ef32b3-b763-43c1-aef2-b6c8f767f110" style="display: inline-block;margin: 10px;width: 25%;">
+  <img src="https://github.com/user-attachments/assets/ae307f9b-2659-44a5-90f6-4015fda273d9" style="display: inline-block;margin: 10px;width: 25%;">
   <img src="https://github.com/user-attachments/assets/a6875d43-8573-4527-ac3b-f270291a7bd4" style="display: inline-block;margin: 10px;width: 25%;">
   <!-- <img src="https://github.com/user-attachments/assets/42eff4d0-3bbb-4844-b87e-2cfe3d0a9962" style="display: inline-block;margin: 10px;width: 45%;"> -->
 
