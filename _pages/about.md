@@ -112,5 +112,5 @@ Designing questions and evaluation criteria for assessing large language models'
 [![](https://github-readme-stats-git-master-lillianwei-hs-projects.vercel.app/api/top-langs/?username=lillianwei-h&layout=donut&langs_count=8&theme=swift)](https://github.com/lillianwei-h)
 
 <div style="width: 400px;margin-left: 0;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=4ZvHHwuoR_IRMQg5YfStYBXhWFO0W5lc6-yTkWpTzCs&co=d1dfe8&cmo=b5c1c7&cmn=a2bfeb&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=4ZvHHwuoR_IRMQg5YfStYBXhWFO0W5lc6-yTkWpTzCs&co=f2f2f2&cmo=387da3&cmn=ff8a00&ct=000000'></script>
 </div>
