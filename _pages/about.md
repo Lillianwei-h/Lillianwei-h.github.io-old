@@ -39,10 +39,10 @@ Peng Xia†, **Siwei Han†**, Shi Qiu†, Yiyang Zhou, Zhaoyang Wang, Wenhao Zh
 # 📖 Educations
 
 <img src="../images/fdu.png" alt="fdu" style="zoom:20%; float: left" />&emsp; [Fudan University](https://www.fudan.edu.cn/en/)    
-&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - now* <span style="float: right;">**GPA: 3.52/4**</span>
+&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - now* <span style="float: right;">**GPA: 3.5/4**</span>
 
 <img src="../images/unc.png" alt="unc" style="zoom:24%; float: left" />&emsp; [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
-&emsp; Exchange student. *2023.08 - 2023.12* <span style="float: right;">**GPA: 3.89/4**</span>
+&emsp; Exchange student. *2023.08 - 2023.12* <span style="float: right;">**GPA: 3.9/4**</span>
 <br><br>
 
 ---
