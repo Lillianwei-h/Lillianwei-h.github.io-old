@@ -26,7 +26,7 @@ In this paper, we propose a novel comparison-based CoT generation algorithm that
 Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/07cfaa1e-f99b-47e7-846d-65337948d517' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://github.com/user-attachments/assets/07cfaa1e-f99b-47e7-846d-65337948d517' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 In this paper, we introduce MMIE, a robust, knowledge-intensive benchmark to evaluate interleaved multimodal comprehension and generation in LVLMs. With 20K+ examples covering 12 fields and 102 subfields, including mathematics, coding, physics, literature, health, and arts. It supports both interleaved inputs and outputs, offering a mix of multiple-choice and open-ended question formats to evaluate diverse competencies. Moreover, we propose a reliable automated evaluation metric, leveraging a scoring model fine-tuned with human-annotated data and systematic evaluation criteria, aimed at reducing bias and improving evaluation accuracy. We publicly release our benchmark and code on [MMIE](https://mmie-bench.github.io).
 </div>
