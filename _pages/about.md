@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Siwei Han(韩偲蔚), a senior at Fudan University, Computer Science and Technology Department. I am interested in alignment and application of LLMs, VLMs and multimodal models, currently interning in [Prof. Huaxiu Yao](https://www.huaxiuyao.io)'s team at UNC.
+Hi! I'm Siwei Han(韩偲蔚), a senior at Fudan University, majoring in Computer Science and Technology. I am interested in alignment and application of LLMs, VLMs and multimodal models, currently interning in [Prof. Huaxiu Yao](https://www.huaxiuyao.io)'s team at UNC.
 
 ---
 
