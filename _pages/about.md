@@ -35,7 +35,7 @@ We present MDocAgent (A Multi-Modal Multi-Agent Framework for Document Understan
   
 <div markdown="1">
 [MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://arxiv.org/abs/2503.13964)<br>
-**Siwei Han**, Peng Xia, Ruiyi Zhang, Tong Sun, Yun Li, Hongtu Zhu, Huaxiu Yao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Siwei Han**, Peng Xia, Ruiyi Zhang, Tong Sun, Yun Li, Hongtu Zhu, Huaxiu Yao<span style="opacity: 0;">placeholderplaceholderplaceholder</span>
 </div>
 </div>
 
