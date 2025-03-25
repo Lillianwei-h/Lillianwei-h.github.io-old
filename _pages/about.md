@@ -16,11 +16,11 @@ Hi! I'm Siwei Han(韩偲蔚), a senior at Fudan University, majoring in Computer
 
 # 🔥 News
 
-_**2025.01** MMIE is accepted by ICLR 2025!_
+_**2025.03** We present MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding! The paper is available on [arXiv](https://arxiv.org/abs/2503.13964)._
 
 _**2025.02** MMIE is selected to be presented as an Oral!_
 
-_**2025.03** We present MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding! The paper is available on [arXiv](https://arxiv.org/abs/2503.13964)._
+_**2025.01** MMIE is accepted by ICLR 2025!_
 
 ---
 
@@ -33,8 +33,8 @@ We present MDocAgent (A Multi-Modal Multi-Agent Framework for Document Understan
 </div>
   
 <div markdown="1">
-[MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://arxiv.org/abs/2503.13964)<br>
-**Siwei Han**, Peng Xia, Ruiyi Zhang, Tong Sun, Yun Li, Hongtu Zhu, Huaxiu Yao<br>
+[MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://arxiv.org/abs/2503.13964)                        <br>
+**Siwei Han**, Peng Xia, Ruiyi Zhang, Tong Sun, Yun Li, Hongtu Zhu, Huaxiu Yao
 </div>
 </div>
 
