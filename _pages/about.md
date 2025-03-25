@@ -27,7 +27,7 @@ _**2025.03** We present MDocAgent: A Multi-Modal Multi-Agent Framework for Docum
 # 📝 Publications 
 †: Equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/75621f48-aa81-45bd-93b6-4bb9ca5700a2' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/b5879006-dfb6-4086-95ab-fa5e4d4ce97f' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 We present MDocAgent (A Multi-Modal Multi-Agent Framework for Document Understanding), a novel RAG and multi-agent framework that leverages both text and image to solve DocQA problems. Our system employs five specialized agents: a general agent, a critical agent, a text agent, an image agent and a summarizing agent. These agents engage in multi-modal context retrieval, combining their individual insights to achieve a more comprehensive understanding of the document's content. This collaborative approach enables the system to synthesize information from both textual and visual components, leading to improved accuracy in question answering. Our data and code are available at [github](https://github.com/aiming-lab/MDocAgent).
 </div>
