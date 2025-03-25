@@ -28,6 +28,17 @@ _**2025.01** MMIE is accepted by ICLR 2025!_
 †: Equal contribution
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/b5879006-dfb6-4086-95ab-fa5e4d4ce97f' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In this paper, we present MDocAgent (A Multi-Modal Multi-Agent Framework for Document Understanding), a novel RAG and multi-agent framework that leverages both text and image to solve DocQA problems. Our system employs five specialized agents: a general agent, a critical agent, a text agent, an image agent and a summarizing agent. These agents engage in multi-modal context retrieval, combining their individual insights to achieve a more comprehensive understanding of the document's content. This collaborative approach enables the system to synthesize information from both textual and visual components, leading to improved accuracy in question answering. Our data and code are available at [github](https://github.com/aiming-lab/MDocAgent).
+</div>
+  
+<div markdown="1">
+[MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://arxiv.org/abs/2503.13964)<br>
+**Siwei Han**, Peng Xia, Ruiyi Zhang, Tong Sun, Yun Li, Hongtu Zhu, Huaxiu Yao
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Oral</div><img src='https://github.com/user-attachments/assets/07cfaa1e-f99b-47e7-846d-65337948d517' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 In this paper, we introduce MMIE, a robust, knowledge-intensive benchmark to evaluate interleaved multimodal comprehension and generation in LVLMs. With 20K+ examples covering 12 fields and 102 subfields, including mathematics, coding, physics, literature, health, and arts. It supports both interleaved inputs and outputs, offering a mix of multiple-choice and open-ended question formats to evaluate diverse competencies. Moreover, we propose a reliable automated evaluation metric, leveraging a scoring model fine-tuned with human-annotated data and systematic evaluation criteria, aimed at reducing bias and improving evaluation accuracy. We publicly release our benchmark and code on [MMIE](https://mmie-bench.github.io).
