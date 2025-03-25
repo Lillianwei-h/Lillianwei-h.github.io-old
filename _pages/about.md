@@ -18,18 +18,22 @@ Hi! I'm Siwei Han(韩偲蔚), a senior at Fudan University, majoring in Computer
 
 _**2025.01** MMIE is accepted by ICLR 2025!_
 
+_**2025.02** MMIE is selected to be presented as an Oral!_
+
+_**2025.03** We present MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding! The paper is available on [arXiv](https://arxiv.org/abs/2503.13964)._
+
 ---
 
 # 📝 Publications 
 †: Equal contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/CompToT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/75621f48-aa81-45bd-93b6-4bb9ca5700a2' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-In this paper, we propose a novel comparison-based CoT generation algorithm that directly identifies the most promising thoughts with the noisy feedback from the LLM. In each round, we randomly pair intermediate thoughts and directly prompt the LLM to select the more promising one from each pair, allowing us to identify the most promising thoughts through an iterative process. To further model the noise in the comparison, we resort to the techniques of ensemble and dueling bandits and propose two variants of the proposed algorithm.
+We present MDocAgent (A Multi-Modal Multi-Agent Framework for Document Understanding), a novel RAG and multi-agent framework that leverages both text and image to solve DocQA problems. Our system employs five specialized agents: a general agent, a critical agent, a text agent, an image agent and a summarizing agent. These agents engage in multi-modal context retrieval, combining their individual insights to achieve a more comprehensive understanding of the document's content. This collaborative approach enables the system to synthesize information from both textual and visual components, leading to improved accuracy in question answering. Our data and code are available at [github](https://github.com/aiming-lab/MDocAgent).
 </div>
-
+  
 <div markdown="1">
-[Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918)<br>
-Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
+[MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://arxiv.org/abs/2503.13964)<br>
+**Siwei Han**, Peng Xia, Ruiyi Zhang, Tong Sun, Yun Li, Hongtu Zhu, Huaxiu Yao
 </div>
 </div>
 
@@ -41,6 +45,17 @@ In this paper, we introduce MMIE, a robust, knowledge-intensive benchmark to eva
 <div markdown="1">
 [MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models](https://arxiv.org/abs/2410.10139)<br>
 Peng Xia†, **Siwei Han†**, Shi Qiu†, Yiyang Zhou, Zhaoyang Wang, Wenhao Zheng, Zhaorun Chen, Chenhang Cui, Mingyu Ding, Linjie Li, Lijuan Wang, Huaxiu Yao
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/CompToT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+In this paper, we propose a novel comparison-based CoT generation algorithm that directly identifies the most promising thoughts with the noisy feedback from the LLM. In each round, we randomly pair intermediate thoughts and directly prompt the LLM to select the more promising one from each pair, allowing us to identify the most promising thoughts through an iterative process. To further model the noise in the comparison, we resort to the techniques of ensemble and dueling bandits and propose two variants of the proposed algorithm.
+</div>
+
+<div markdown="1">
+[Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought](https://arxiv.org/abs/2402.06918)<br>
+Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 </div>
 </div>
 
@@ -65,7 +80,6 @@ In this paper, we introduce MJ-BENCH-VIDEO, a large-scale video preference bench
 Haibo Tong†, Zhaoyang Wang†, Zhaorun Chen, Haonian Ji, Shi Qiu, **Siwei Han**, Zhongkai Xue, Yiyang Zhou, Peng Xia, Kexin Geng, Mingyu Ding, Rafael Rafailov, Chelsea Finn, Huaxiu Yao
 </div>
 </div>
-
 
 # 📖 Educations
 
