@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Siwei Han"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fudan University"
-  location         : "Shanghai, China"
+  bio              : "UNC-Chapel Hill/Fudan University"
+  location         : "Chapel Hill, NC, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oT1QQs8AAAAJ"
