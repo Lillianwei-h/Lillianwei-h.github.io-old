@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Siwei Han(韩偲蔚), a first-year CS Ph.D. student at <a href="https://cs.unc.edu/">Department of Computer Science</a>, <a href="https://www.unc.edu/">UNC-Chapel Hill</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=A20BZnQAAAAJ&hl=en">Huaxiu Yao</a>. Previously, I was an undergraduate student majoring in Computer Science and Technology at Fudan University. I am interested in LLM/VLM Alignment and Multimodal Multiagent System, aiming to build more reliable and functional models and agents.
+Hi! I'm Siwei Han(韩偲蔚), a first-year CS Ph.D. student at <a href="https://cs.unc.edu/">Department of Computer Science</a>, <a href="https://www.unc.edu/">UNC-Chapel Hill</a>, advised by Prof. <a href="https://www.huaxiuyao.io">Huaxiu Yao</a>. Previously, I was an undergraduate student majoring in Computer Science and Technology at Fudan University. I am interested in LLM/VLM Alignment and Multimodal Multiagent System, aiming to build more reliable and functional models and agents.
 
 ---
 
