@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Siwei Han(韩偲蔚), a senior at Fudan University, majoring in Computer Science and Technology. I am interested in alignment and application of LLMs, VLMs and multimodal models, currently interning in [Prof. Huaxiu Yao](https://www.huaxiuyao.io)'s team at UNC.
+Hi! I'm Siwei Han(韩偲蔚), a first-year CS Ph.D. student at <a href="https://cs.unc.edu/">Department of Computer Science</a>, <a href="https://www.unc.edu/">UNC-Chapel Hill</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=A20BZnQAAAAJ&hl=en">Huaxiu Yao</a>. Previously, I was an undergraduate student majoring in Computer Science and Technology at Fudan University. I am interested in LLM/VLM Alignment and Multimodal Multiagent System, aiming to build more reliable and functional models and agents.
 
 ---
 
@@ -86,10 +86,10 @@ Haibo Tong†, Zhaoyang Wang†, Zhaorun Chen, Haonian Ji, Shi Qiu, **Siwei Han*
 # 📖 Educations
 
 <img src="../images/fdu.png" alt="fdu" style="zoom:20%; float: left" />&emsp; [Fudan University](https://www.fudan.edu.cn/en/)    
-&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - now* <span style="float: right;">**GPA: 3.5/4**</span>
+&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - 2025.06*
 
 <img src="../images/unc.png" alt="unc" style="zoom:24%; float: left" />&emsp; [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
-&emsp; Exchange student. *2023.08 - 2023.12* <span style="float: right;">**GPA: 3.9/4**</span>
+&emsp; Exchange student. *2023.08 - 2023.12*
 <br><br>
 
 ---
@@ -100,23 +100,7 @@ Haibo Tong†, Zhaoyang Wang†, Zhaorun Chen, Haonian Ji, Shi Qiu, **Siwei Han*
 &emsp; R&D Associate Engineer. *2024.01 - 2024.05*
 
 <img src="../images/unc.png" alt="unc" style="zoom:24%; float: left" />&emsp; [University of North Carolina at Chapel Hill](https://www.unc.edu/)    
-&emsp; Research Intern(remote). *2024.01 - now*
-<br><br>
-
----
-
-# 💻 Projects
-### [LLM Reviser](https://github.com/Lillianwei-h/weak_aligner) Mar. 2024 - Jun. 2024
-Leverage a reviser model to enhance the quality of the response from the original LLM and further preference tuning the LLM with the LLM-generated responses as dispreferred answers and the revised answers as preferred answers.
-
-<img src="../images/revisor.png" alt="revisor" style="zoom:20%;" />
-
-### [THSH shell](https://github.com/Lillianwei-h/Comp-530/tree/lab1) Oct. 2023
-This shell can run standard linux shell commands. It also supports creating new built-in commands. It
-includes features like pipelines, input/output redirection, script input, and debugging.
-
-### [LLMEVAL - Fudan University’s NLP Laboratory](http://www.llmeval.com/) Apr. 2023 - Jun. 2023
-Designing questions and evaluation criteria for assessing large language models' capability of solving questions in Chinese. Mainly resiponsible for story generation and paragraph edition parts.
+&emsp; Research Intern(remote). *2024.01 - 2025.02*
 <br><br>
 
 ---
