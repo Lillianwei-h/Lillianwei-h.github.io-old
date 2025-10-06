@@ -32,9 +32,10 @@ _**2025.01** MMIE is accepted by ICLR 2025!_
 
 ---
 
-# 📝 Selected Publications (<a href="https://scholar.google.com/citations?user=oT1QQs8AAAAJ">Full Publications</a>)
-†: Equal contribution
+# 📝 Selected Publications
+<a href="https://scholar.google.com/citations?user=oT1QQs8AAAAJ">Full Publications</a>
 
+†: Equal contribution 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/b5879006-dfb6-4086-95ab-fa5e4d4ce97f' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
