@@ -102,7 +102,7 @@ Haibo Tong†, Zhaoyang Wang†, Zhaorun Chen, Haonian Ji, Shi Qiu, **Siwei Han*
 
 ---
 
-# 💼 Internships
+# 💻 Internships
 
 <img src="../images/atc.png" alt="atc" style="zoom:60%; float: left" />&emsp; [Advantest, China](https://www.advantest.com/)    
 &emsp; R&D Associate Engineer. *2024.01 - 2024.05*
@@ -113,14 +113,15 @@ Haibo Tong†, Zhaoyang Wang†, Zhaorun Chen, Haonian Ji, Shi Qiu, **Siwei Han*
 
 ---
 
-# Selected Honors & Awards
+# 🏆 Selected Honors & Awards
 - NeurIPS Spotlight Presentation (Top 5%), 2025
 - EMNLP Oral Presentation, 2025 (Top 2%), 2025
 - KDD 2025 Health Day Distinguished Vision Award, 2025
 - ICLR Oral Presentation (Top 1.8%), 2025
 
+---
 
-# Academic Services
+# 💼 Academic Services
 - Workshop Co-Organizer: <a href="https://r2-fm.github.io/">ICML 2025 Workshop on Reliable and Responsible Foundation Models</a>
 
 ---
