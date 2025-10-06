@@ -70,8 +70,7 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 Main (Oral)</div><img src='https://github.com/user-attachments/assets/d1259661-64f4-47f5-858d-98cee0b7b1f8' alt="sym" width="100%"></div></div>
-
-<div markdown="1">
+<div class='paper-box-text' markdown="1">
 In this paper, we introduce GLIMPSE, a benchmark designed to evaluate whether large vision-language models (LVLMs) can truly think with videos rather than rely on static frames. Unlike prior video benchmarks that resemble image-based tasks, GLIMPSE emphasizes holistic temporal reasoning through 3,269 videos and 4,342 human-crafted questions across 11 categories. Each question requires full-context understanding of the entire video. While humans achieve 94.82% accuracy, the best LVLM, GPT-o3, reaches only 66.43%, revealing significant gaps in genuine video reasoning.
 </div>
 
