@@ -69,7 +69,7 @@ Zhen-Yu Zhang, **Siwei Han**, Huaxiu Yao, Gang Niu, Masashi Sugiyama
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025 Oral</div><img src='https://github.com/user-attachments/assets/e948404d-81e1-4ba6-8547-7ceebbe30d7a' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025 Spotlight</div><img src='https://github.com/user-attachments/assets/e948404d-81e1-4ba6-8547-7ceebbe30d7a' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 In this paper, we introduce MJ-BENCH-VIDEO, a large-scale video preference benchmark designed to evaluate video generation across five critical aspects: Alignment, Safety, Fineness, Coherence & Consistency, and Bias & Fairness. This benchmark incorporates 28 fine-grained criteria to provide a comprehensive evaluation of video preference. Building upon this dataset, we propose MJ-VIDEO, a Mixture-of-Experts (MoE)-based video reward model designed to deliver fine-grained reward. MJ-VIDEO can dynamically select relevant experts to accurately judge the preference based on the input text-video pair. This architecture enables more precise and adaptable preference judgments.
 </div>
