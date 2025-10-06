@@ -10,11 +10,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Siwei Han(韩偲蔚), a first-year CS Ph.D. student at <a href="https://cs.unc.edu/">Department of Computer Science</a>, <a href="https://www.unc.edu/">UNC-Chapel Hill</a>, advised by Prof. <a href="https://www.huaxiuyao.io">Huaxiu Yao</a>. Previously, I was an undergraduate student majoring in Computer Science and Technology at Fudan University. I am interested in LLM/VLM Alignment and Multimodal Multiagent System, aiming to build more reliable and functional models and agents.
+Hi! I'm Siwei Han(韩偲蔚), a first-year Ph.D. student at <a href="https://cs.unc.edu/">Department of Computer Science</a>, <a href="https://www.unc.edu/">UNC-Chapel Hill</a>, advised by Prof. <a href="https://www.huaxiuyao.io">Huaxiu Yao</a>. Before that, I received my Bachelor of Science degree at Fudan University. I am interested in LLM/VLM Alignment and Multimodal Multiagent System, aiming to build more reliable and functional models and agents.
+
+<p style="border: 1px solid #ff4d4f; background-color: #fff2f0; color: #ff4d4f; padding: 8px; border-radius: 5px;">
+I’m open to 2026 summer internships, feel free to reach out!
+</p>
 
 ---
 
 # 🔥 News
+
+_**2025.09** Three paper are accepted by NIPS 2025, including one spotlight!_
+
+_**2025.09** One paper is accepted by EMNLP 2025 as an Oral!_
 
 _**2025.03** We present MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding! The paper is available on [arXiv](https://arxiv.org/abs/2503.13964)._
 
@@ -24,7 +32,7 @@ _**2025.01** MMIE is accepted by ICLR 2025!_
 
 ---
 
-# 📝 Publications 
+# 📝 Selected Publications (<a href="https://scholar.google.com/citations?user=oT1QQs8AAAAJ">Full Publications</a>)
 †: Equal contribution
 
 
@@ -104,6 +112,10 @@ Haibo Tong†, Zhaoyang Wang†, Zhaorun Chen, Haonian Ji, Shi Qiu, **Siwei Han*
 <br><br>
 
 ---
+
+# Academic Services
+- Workshop Co-Organizer: <a href="https://r2-fm.github.io/">ICML 2025 Workshop on Reliable and Responsible Foundation Models</a>
+
 
 # 🗺️ Languages
 - Chinese: Native
