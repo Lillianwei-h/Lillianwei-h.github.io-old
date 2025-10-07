@@ -37,6 +37,19 @@ _**2025.01** MMIE is accepted by ICLR 2025!_
 
 †: Equal contribution 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/e4481250-1858-4970-93ac-51a3e50096f8' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+We present the Alignment Tipping Process (ATP), a critical post-deployment risk unique to self-evolving LLM agents. Unlike training-time failures, ATP arises when continual interaction drives agents to abandon alignment constraints established during training in favor of reinforced, self-interested strategies. We formalize and analyze ATP through two complementary paradigms: Self-Interested Exploration, where repeated high-reward deviations induce individual behavioral drift, and Imitative Strategy Diffusion, where deviant behaviors spread across multi-agent systems. Building on these paradigms, we construct controllable testbeds and benchmark Qwen3-8B and Llama-3.1-8B-Instruct. Our experiments demonstrate that alignment of LLM agents is not a static property but a fragile and dynamic one, vulnerable to feedback-driven decay during deployment. Our data and code are available at <a href="https://github.com/aiming-lab/ATP">github</a>.
+</div>
+  
+<div markdown="1">
+[Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860)<br>
+<strong>Siwei Han</strong>, Jiaqi Liu, Yaofeng Su, Wenbo Duan, Xinyuan Liu, Cihang Xie, Mohit Bansal, Mingyu Ding, Linjun Zhang, Huaxiu Yao
+</div>
+</div>
+
+<img width="1950" height="1064" alt="CleanShot 2025-10-07 at 12 11 12@2x" src="https://github.com/user-attachments/assets/e4481250-1858-4970-93ac-51a3e50096f8" />
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/user-attachments/assets/b5879006-dfb6-4086-95ab-fa5e4d4ce97f' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 We present MDocAgent (A Multi-Modal Multi-Agent Framework for Document Understanding), a novel RAG and multi-agent framework that leverages both text and image to solve DocQA problems. Our system employs five specialized agents: a general agent, a critical agent, a text agent, an image agent and a summarizing agent. These agents engage in multi-modal context retrieval, combining their individual insights to achieve a more comprehensive understanding of the document's content. This collaborative approach enables the system to synthesize information from both textual and visual components, leading to improved accuracy in question answering. Our data and code are available at [github](https://github.com/aiming-lab/MDocAgent).
