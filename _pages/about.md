@@ -164,7 +164,7 @@ Zijian Zhang†, Kaiyuan Zheng†, Zhaorun Chen†, Joel Jang, Yi Li, **Siwei Ha
   
   <img src="https://github.com/user-attachments/assets/ae307f9b-2659-44a5-90f6-4015fda273d9" style="display: inline-block;margin: 10px;width: 25%;">
   <img src="https://github.com/user-attachments/assets/a6875d43-8573-4527-ac3b-f270291a7bd4" style="display: inline-block;margin: 10px;width: 25%;">
-  <!-- <img src="https://github.com/user-attachments/assets/42eff4d0-3bbb-4844-b87e-2cfe3d0a9962" style="display: inline-block;margin: 10px;width: 45%;"> -->
+  <img src="https://github.com/user-attachments/assets/0753edf7-98b4-4e0d-8c0f-8c8c24bb5aa9" style="display: inline-block;margin: 10px;width: 45%;">
 
 - 🎹 Improvisational piano playing and piano recomposition
 - 🎮 Games
